@@ -34,7 +34,7 @@ Minha paixão é desenvolver aplicações robustas, escaláveis e eficientes. Te
 
 Aqui estão alguns projetos que refletem meu aprendizado e dedicação:
 
-- [ESP32 - Interpretação de Morse]([URL-do-projeto-1](https://github.com/dev-kaio/ESP32-LedMorse.git))  
+- [ESP32 - Interpretação de Morse](https://github.com/dev-kaio/ESP32-LedMorse.git)  
   *Um projeto simples e educativo que utiliza o ESP32 para transmitir mensagens em código Morse através de um LED, ideal para quem está começando a explorar microcontroladores e comunicação visual.*
 
 - [Mais Projetos em Desenvolvimento...]  
