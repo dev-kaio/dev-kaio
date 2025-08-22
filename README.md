@@ -38,10 +38,11 @@ Aqui estão alguns projetos que refletem meu aprendizado e dedicação:
   *Um projeto simples e educativo que utiliza o ESP32 para transmitir mensagens em código Morse através de um LED, ideal para quem está começando a explorar microcontroladores e comunicação visual.*
   
 - [Calendário de Cursos](https://github.com/dev-kaio/CalendarioSENAI.git)
-*Aplicação web para facilitar o acesso a informações de cursos em andamento e que estão para começar, permitindo consulta, cadastro e gerenciamento de cursos para alunos e professores.*
+  *Aplicação web para facilitar o acesso a informações de cursos em andamento e que estão para começar, permitindo consulta, cadastro e gerenciamento de cursos para alunos e professores.*
 
-- [Controle de Ferramentaria - Retirada e Devolução de Ferramentas](https://dev-kaio.github.io/Controle-de-Ferramentas/)
-*Sistema PWA simples e funcional para gerenciar a retirada e devolução de ferramentas por alunos, ideal para uso em oficinas ou laboratórios escolares. Pode ser instalado.*
+- [Controle de Ferramentaria - Retirada e Devolução de Ferramentas](https://github.com/dev-kaio/Controle-de-Ferramentas.git)
+  *Sistema PWA simples e funcional para gerenciar a retirada e devolução de ferramentas por alunos, ideal para uso em oficinas ou laboratórios escolares. Pode ser instalado.*
+  [Link](https://github.com/dev-kaio/Controle-de-Ferramentas.git)
 
 - [Mais Projetos em Desenvolvimento...]  
 
