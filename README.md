@@ -34,7 +34,7 @@ Minha paixão é desenvolver aplicações robustas, escaláveis e eficientes. Te
 
 Aqui estão alguns projetos que refletem meu aprendizado e dedicação:
 
-- [ESP32 - Interpretação de Morse](https://github.com/dev-kaio/ESP32-LedMorse.git)  
+- [ESP32 - Interpretação de Morse](https://github.com/dev-kaio/ESP32-LedMorse.git)
   *Um projeto simples e educativo que utiliza o ESP32 para transmitir mensagens em código Morse através de um LED, ideal para quem está começando a explorar microcontroladores e comunicação visual.*
   
 - [Calendário de Cursos](https://github.com/dev-kaio/CalendarioSENAI.git)
@@ -42,7 +42,7 @@ Aqui estão alguns projetos que refletem meu aprendizado e dedicação:
 
 - [Controle de Ferramentaria - Retirada e Devolução de Ferramentas](https://github.com/dev-kaio/Controle-de-Ferramentas.git)
   *Sistema PWA simples e funcional para gerenciar a retirada e devolução de ferramentas por alunos, ideal para uso em oficinas ou laboratórios escolares. Pode ser instalado.*
-  [Link](https://github.com/dev-kaio/Controle-de-Ferramentas.git)
+  [Link](https://dev-kaio.github.io/Controle-de-Ferramentas/)
 
 - [Mais Projetos em Desenvolvimento...]  
 
