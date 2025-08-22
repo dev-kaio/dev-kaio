@@ -45,7 +45,7 @@ Aqui estão alguns projetos que refletem meu aprendizado e dedicação:
 
 Se quiser trocar ideias, colaborar em projetos ou bater um papo sobre tecnologia, me envie uma mensagem!
   
-- 🔗 LinkedIn: [Kaio Manfro](www.linkedin.com/in/dev-kaio)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/dev-kaio)  
 
 ---
 
