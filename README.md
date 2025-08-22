@@ -41,15 +41,6 @@ Aqui estão alguns projetos que refletem meu aprendizado e dedicação:
 
 ---
 
-## 🌐 Internet das Coisas (IoT)
-
-Exploro o universo da IoT com projetos práticos utilizando:
-
-- **ESP32:** Desenvolvimento de dispositivos conectados via Wi-Fi com sensores e atuadores, além de integrar com sistemas web.
-- **Arduino:** Protótipos eletrônicos, automações.
-
----
-
 ## 📫 Vamos conversar?
 
 Se quiser trocar ideias, colaborar em projetos ou bater um papo sobre tecnologia, me envie uma mensagem!
