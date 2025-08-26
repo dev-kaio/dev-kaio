@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou [Kaio Manfro]!
 
-🚀 Estudante de Técnico em Informática integrado ao Ensino Médio no **IFRS** | Apaixonado por **Desenvolvimento de Software**, **Tecnologias Web** e **IoT**
+🚀 Estudante de Técnico em Informática Integrado ao Ensino Médio no **IFRS** | Apaixonado por **Desenvolvimento de Software**, **Tecnologias Web** e **IoT**
 
 ---
 
