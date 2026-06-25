@@ -19,8 +19,6 @@ Além disso, sou entusiasta de Internet das Coisas (IoT), explorando o mundo dos
 <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/></a>
 <a href="https://learn.microsoft.com/dotnet/corporate/framework-description" target="_blank"><img src="https://img.shields.io/badge/.NET_EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="EF Core"/></a>
 <a href="https://www.java.com" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/></a>
-<a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
-<a href="https://www.php.net" target="_blank"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/></a>
 
 ### Banco de Dados e Nuvem
 <a href="https://www.postgresql.org" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
