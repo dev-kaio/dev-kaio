@@ -48,6 +48,38 @@ $ cat kaio.json
 <tr>
 <td width="50%" valign="top">
 
+### Emissão de Notas Fiscais
+Sistema de notas fiscais em microsserviços: emissão com múltiplos itens e baixa automática de estoque.
+
+`C#` `.NET` `EF Core` `Angular`
+
+**[código](https://github.com/dev-kaio/Korp_Teste_KaioManfroDaSilva)**
+
+</td>
+<td width="50%" valign="top">
+
+### Afiação de Brocas · Projeto Integrador
+PWA e API que controlam a máquina de afiação pelo ESP32 e registram relatórios de uso das brocas.
+
+`Node.js` `Firebase` `C++` `PWA`
+
+**[código](https://github.com/dev-kaio/Projeto-Integrador)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### API Spotify
+API REST de músicas com upload de áudio e capa, streaming, download e busca por nome.
+
+`C#` `.NET` `EF Core` `SQL Server`
+
+**[código](https://github.com/dev-kaio/API-Spotify)**
+
+</td>
+<td width="50%" valign="top">
+
 ### Controle de Ferramentaria
 PWA para retirada e devolução de ferramentas — controle de quem pegou, o quê e quando.
 
@@ -56,6 +88,8 @@ PWA para retirada e devolução de ferramentas — controle de quem pegou, o qu�
 **[código](https://github.com/dev-kaio/Controle-de-Ferramentas)** · **[demo ao vivo](https://dev-kaio.github.io/Controle-de-Ferramentas/)**
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### Calendário de Cursos
@@ -66,8 +100,6 @@ App web para consultar, cadastrar e gerenciar cursos em andamento e futuros.
 **[código](https://github.com/dev-kaio/CalendarioSENAI)**
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### ESP32 · LED Morse
@@ -78,6 +110,8 @@ IoT: transmite mensagens em código Morse piscando um LED no ESP32.
 **[código](https://github.com/dev-kaio/ESP32-LedMorse)**
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### Próximos
