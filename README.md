@@ -58,6 +58,18 @@ Sistema de notas fiscais em microsserviços: emissão com múltiplos itens e bai
 </td>
 <td width="50%" valign="top">
 
+### Medição de Energia em Condomínios
+Medição individualizada por apartamento: a ESP32 lê os medidores por Modbus, o painel acompanha o consumo e o sistema calcula a conta de cada morador.
+
+`Node.js` `React` `Firebase` `ESP32`
+
+**[código](https://github.com/dev-kaio/Controle-Consumo-Energia)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### Afiação de Brocas · Projeto Integrador
 PWA e API que controlam a máquina de afiação pelo ESP32 e registram relatórios de uso das brocas.
 
@@ -66,8 +78,6 @@ PWA e API que controlam a máquina de afiação pelo ESP32 e registram relatóri
 **[código](https://github.com/dev-kaio/Projeto-Integrador)**
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### API Spotify
@@ -78,6 +88,8 @@ API REST de músicas com upload de áudio e capa, streaming, download e busca po
 **[código](https://github.com/dev-kaio/API-Spotify)**
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### Controle de Ferramentaria
@@ -88,8 +100,6 @@ PWA para retirada e devolução de ferramentas — controle de quem pegou, o qu�
 **[código](https://github.com/dev-kaio/Controle-de-Ferramentas)** · **[demo ao vivo](https://dev-kaio.github.io/Controle-de-Ferramentas/)**
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### Calendário de Cursos
@@ -100,6 +110,8 @@ App web para consultar, cadastrar e gerenciar cursos em andamento e futuros.
 **[código](https://github.com/dev-kaio/CalendarioSENAI)**
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### ESP32 · LED Morse
@@ -110,8 +122,6 @@ IoT: transmite mensagens em código Morse piscando um LED no ESP32.
 **[código](https://github.com/dev-kaio/ESP32-LedMorse)**
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### Próximos
