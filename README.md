@@ -29,8 +29,6 @@ $ cat kaio.json
 
 <div align="center">
 
-## ⚡ Stack
-
 **front**<br/>
 <img src="https://skillicons.dev/icons?i=react,js,html,css&theme=dark" alt="frontend"/>
 
@@ -92,16 +90,6 @@ Sempre tem algo cozinhando por aqui. Dá uma olhada nos repos.
 </td>
 </tr>
 </table>
-
-<br/>
-
-<div align="center">
-
-## Números
-
-<img src="./assets/metrics.svg" alt="métricas do GitHub" width="86%"/>
-
-</div>
 
 <br/>
 
