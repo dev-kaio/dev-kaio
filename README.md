@@ -44,13 +44,13 @@ $ cat kaio.json
 
 <br/>
 
-## 🚀 Projetos
+## Projetos
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔧 Controle de Ferramentaria
+### Controle de Ferramentaria
 PWA para retirada e devolução de ferramentas — controle de quem pegou, o quê e quando.
 
 `JavaScript` `PWA` `Firebase`
@@ -60,7 +60,7 @@ PWA para retirada e devolução de ferramentas — controle de quem pegou, o qu�
 </td>
 <td width="50%" valign="top">
 
-### 📅 Calendário de Cursos
+### Calendário de Cursos
 App web para consultar, cadastrar e gerenciar cursos em andamento e futuros.
 
 `JavaScript` `Web`
@@ -72,7 +72,7 @@ App web para consultar, cadastrar e gerenciar cursos em andamento e futuros.
 <tr>
 <td width="50%" valign="top">
 
-### 📡 ESP32 · LED Morse
+### ESP32 · LED Morse
 IoT: transmite mensagens em código Morse piscando um LED no ESP32.
 
 `C++` `IoT` `Embarcado`
@@ -82,7 +82,7 @@ IoT: transmite mensagens em código Morse piscando um LED no ESP32.
 </td>
 <td width="50%" valign="top">
 
-### 🌱 Próximo
+### Próximos
 Sempre tem algo cozinhando por aqui. Dá uma olhada nos repos.
 
 `em breve`
@@ -97,7 +97,7 @@ Sempre tem algo cozinhando por aqui. Dá uma olhada nos repos.
 
 <div align="center">
 
-## 📊 Números
+## Números
 
 <img src="./assets/metrics.svg" alt="métricas do GitHub" width="86%"/>
 
@@ -107,7 +107,7 @@ Sempre tem algo cozinhando por aqui. Dá uma olhada nos repos.
 
 <div align="center">
 
-## 🐍 Contribuições
+## Contribuições
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dev-kaio/dev-kaio/output/snake-dark.svg?v=2"/>
@@ -121,7 +121,7 @@ Sempre tem algo cozinhando por aqui. Dá uma olhada nos repos.
 
 <div align="center">
 
-## 🤝 Bora trocar ideia?
+## Bora trocar ideia?
 
 Aberto a colaborações, projetos e conversa sobre front, back e IoT.
 
