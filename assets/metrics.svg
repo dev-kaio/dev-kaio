@@ -35,7 +35,7 @@
 
 <pre><div class="stdin"><span class="ps1-path">dev-kaio@metrics</span>:<span class="ps1-location">~</span>$ whoami</div><div class="stdout"><b>K</b> registered=3y, uid=6922, gid=0
   contributed to 13 repositories <b><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span></b>
-  followed by <b>15</b> users
+  followed by <b>16</b> users
 </div>
 <div class="stdin"><span class="ps1-path">dev-kaio@metrics</span>:<span class="ps1-location">~</span>$ git status</div><div class="stdout"><b>Recent activity</b>
   <b>  265</b> commits
@@ -44,7 +44,7 @@
   <b>    0</b> issues opened
   <b>   17</b> issue comments
 </div>
-<div class="stdin"><span class="ps1-path">dev-kaio@metrics</span>:<span class="ps1-location">~</span>$ ls -lh github/repositories</div><div class="stdout">Total 1 repository - 717 kB
+<div class="stdin"><span class="ps1-path">dev-kaio@metrics</span>:<span class="ps1-location">~</span>$ ls -lh github/repositories</div><div class="stdout">Total 1 repository - 753 kB
 -r--  <b>    0</b>  stargazers
 -r--  <b>    0</b>  forks
 -r--  <b>    0</b>  watchers
